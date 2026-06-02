@@ -8,7 +8,7 @@ To implement Stop and Wait protocol using NS2 program.
 2.	NS2 Software
 
 # ALGORITHM
-Step 1: Start the program.
+Step 1. Start the program.
 Step 2: Declare the global variables ns for creating a new simulator. Step 3: Open the network animator file in the write mode.
 Step 4: Open the trace file in the write mode. Step 5: Transfer the packets in network.
 Step 6: Create the capable no of nodes.
@@ -70,7 +70,7 @@ $ns at 0.0 "$n1 label Receiver"
 $ns run
 ```
 # OUTPUT
-<img width="966" height="999" alt="WhatsApp Image 2026-06-02 at 11 38 52 AM" src="https://github.com/user-attachments/assets/f3baccc2-d43b-4316-88b9-a8d91d87b7fb" />
+<img width="1360" height="779" alt="WhatsApp Image 2026-06-02 at 8 10 03 PM" src="https://github.com/user-attachments/assets/acbb58d3-a1e8-4ebc-a9b8-a666c3fd68c7" />
 
 
 # RESULT
